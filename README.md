@@ -1,3 +1,9 @@
+kode kelas : IF4025
+Nama Anggota : Andrean Syahrezi_121140169
+               Wuri Wilatiningsih_121140167
+
+
+
 **Karaoke Face Animation**
 
 Karaoke Face Animation adalah sebuah inovasi dalam teknologi augmented reality (AR) yang memadukan animasi wajah dengan elemen karaoke.Teknologi ini memungkinkan pengguna untuk merasakan pengalaman bernyanyi secara interaktif dengan memanfaatkan fitur pelacakan wajah
